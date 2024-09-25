@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋 </h1>
-<h3 align="center">Olá! Meu nome é Vinicius, tenho 20 anos e sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) no IFPR. Desde que comecei a me aventurar no mundo da programação, me apaixonei pela linguagem Java. Atualmente, estou focado em me tornar um desenvolvedor back-end e estou estudando Spring Boot para aprimorar minhas habilidades.</h3>
+<h3 align="center">Olá! Meu nome é Vinicius, tenho 20 anos e sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) no IFPR. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusschmitzmartins&label=Profile%20views&color=0e75b6&style=flat" alt="viniciusschmitzmartins" /> </p>
 
